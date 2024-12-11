@@ -1,0 +1,38 @@
+=======================
+Filename: 0002208.035.jpg
+Page: 1 of 1
+Link: https://transcription.si.edu/transcribe/50684/ERUVg
+https://static.adsabs.harvard.edu/static/phaedra/phaedra2208/0002208.035.jpg
+=======================
+
+[[preprinted]] 29 [[/preprinted]]
+[[table]]
+|   |   |   |   |   |
+|---|---|---|---|---|
+|105|-22[[symbol - degree symbol]] 5756|21 37.2|-22 32.2|8.8|
+|106|-23[[symbol - degree symbol]] [[strikethrough]] 12086 [[/strikethrough]] 17886|21 38.3|-23 12.6|9.3|
+|107|-23[[symbol - degree symbol]] 17073|21 36.7|-23 9.1|9.3|  
+|108|-22[[symbol - degree symbol]] 5753|21 35.8|-22 37.7|9.5|
+|109|[[strikethrough]] Approx. 1855 [[/strikethrough]] CPD -22[[symbol - degree symbol]] 8074|[[strikethrough]] 21 34.8 [[/strikethrough]] 21 36.0|[[strikethrough]] -22 19 [[/strikethrough]] -22 15|10.0|
+|110|-21[[symbol - degree symbol]] 6084|21  36.6|-21 55.9|8.9|  
+|111|-21[[symbol - degree symbol]] 6085|21  37.1|-21 53.5|9.1|
+|112|-21[[symbol - degree symbol]] 6081|21  36.3|-21 33.8|9.2|
+|113|-21[[symbol - degree symbol]] 6083|21  36.3|-21 33.6|9.2|  
+|114|-21[[symbol - degree symbol]] 6088|21  37.8|-21 35.3|9.4|
+|115|-20[[symbol - degree symbol]] 6283|21  37.0|-20 46.5|9.0|  
+|116|-20[[symbol - degree symbol]] 6269|21  34.9|-20 23.2|9.4|
+|117|[[strikethrough]] Approx. 1855 [[/strikethrough]] CPD -20[[symbol - degree symbol]] 8209|[[strikethrough]] 21 36.8 [[/strikethrough]] 21 37.9|[[strikethrough]] -20 27 [[/strikethrough]] -20 22|9.4|
+|118|-20[[symbol - degree symbol]] 6286|21  37.8|-20 26.0|9.5|
+|119|-20[[symbol - degree symbol]] 6290|21  38.8|-20 28.0|9.5|
+|120|-21[[symbol - degree symbol]] 6091|21  39.0|-21 11.6|9.0|
+|121|-21[[symbol - degree symbol]] 6093|21  39.4|-21 25.8|9.0|
+|122|-22[[symbol - degree symbol]] 5764|21  38.9|-22 19.9|8.7|
+|123|-22[[symbol - degree symbol]] 5768|21  40.3|-22 20.5|9.1|
+|124|-22[[symbol - degree symbol]] 5766|21  39.7|-22 1.2|9.2|
+|125|[[strikethrough]] Approx. 1855 [[/strikethrough]] CPD -21[[symbol - degree symbol]] 7988|[[strikethrough]] 21 38.7 [[/strikethrough]] 21 38.7|[[strikethrough]] -21 51 [[/strikethrough]] -21 45|10.0|
+|12|[[strikethrough]] Approx. 1855 [[/strikethrough]] CPD -21[[symbol - degree symbol]] 7987|[[strikethrough]] 21 38.5 [[/strikethrough]] 21 39.7|[[strikethrough]] -21 24 [[/strikethrough]] -21 17|10.0|
+|127|-21[[symbol - degree symbol]] 6089|21  38.2|-21 24.0|9.7|
+|128|-20[[symbol - degree symbol]] 6291|21  39.0|-20 47.3|9.7|
+|129|-20[[symbol - degree symbol]] 6295|21  40.6|-20 5.1|8.9|
+|130|-20[[symbol - degree symbol]] 6296|21  40.8|-20 20.2|9.1|
+[[/table]]

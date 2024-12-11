@@ -1,0 +1,119 @@
+=======================
+Filename: phaedra-2208 to_transcribe (first 3).pdf
+Page: 1 of 3
+Link: https://transcription.si.edu/transcribe/50684/ERUVs
+=======================
+
+[[preprinted]]33[[/preprinted]]
+
+[[table]]
+|   |   |   |   |   |
+|---|---|---|---|---|
+|157 -21[[symbol - degree symbol]]|   6130 21|  50.2 -21 | 25.8 | 9.0  |
+|158 -22[[symbol - degree symbol]]|   5795 21|  48.5 -2+ | 27.0 | 9.0  |
+|159 -22[[symbol - degree symbol]]|   5794 21|  48.4 -22 | 47.5 | 8.5  |
+|160 -22[[symbol - degree symbol]]|   5796 21|  48.9 -22 | 42.5 | 9.1  |
+|161 -22[[symbol - degree symbol]]|   5799 21|  49.4 -22 | 57.5 | 9.0  |
+|162 -23[[symbol - degree symbol]]|  17184 21|  50.4 +23 | 16.6 | 8.3  |
+|163 -23[[symbol - degree symbol]]|  17186 21|  50.7 -23 | 18.1 | 9.3  |
+|164 -23[[symbol - degree symbol]]|  17166 21|  48.2 -23 | 12.1 | 8.9  |
+|165 -22[[symbol - degree symbol]]|   5792 21|  47.2 -22 | 59.7 | 9.1  |
+|166 -23[[symbol - degree symbol]]|  17164 21|  48.0 -23 | 11.6 | 9.3  |
+|167 -23[[symbol - degree symbol]]|  17156 21|  47.3 -23 | 33.1 | 9.0  |
+|168 -24[[symbol - degree symbol]]|  16858 21|  43.3 -24 | 14.4 | 9.1  |
+|169 -23[[symbol - degree symbol]]|  17188 21|  51.2 -23 | 49.4 | 7.6  |
+|170 -24[[symbol - degree symbol]]|  16924 21|  51.2 -24 | 35.7 | 9.2  |
+|171 -24[[symbol - degree symbol]]|  16930 21|  51.6 -24 | 30.3 | 9.4  |
+|172 -24[[symbol - degree symbol]]|  16934 21|  52.2 -24 | 29.0 | 8.3  |
+|173 -24[[symbol - degree symbol]]|  16935 21|  52.3 -24 | 15.7 | 6.9  |
+|174 -25[[symbol - degree symbol]]|  15693 21|  52.3 -25 |  4.7 | 8.8  |
+|175 -25[[symbol - degree symbol]]|  15695 21|  52.4 -25 | 14.5 | 9.0  |
+|176 -25[[symbol - degree symbol]]|  15678 21|  50.6 -25 | 27.9 | 9.1  |
+|177 -25[[symbol - degree symbol]]|  15671 21|  49.6 -25 | 56.9 | 9.2  |
+|178 -26[[symbol - degree symbol]]|  15895 21|  49.4 -26 |  5.4 | 7.6  |
+|179 -25[[symbol - degree symbol]]|  15655 21|  48.4 -25 | 36.2 | 8.7  |
+|180 -26[[symbol - degree symbol]]|  15887 21|  48.2 -26 | 10.8 | 9.2  |
+|181 -26[[symbol - degree symbol]]|  15892 21|  49.0 -26 | 22.4 | 9.1  |
+|182 -27[[symbol - degree symbol]]|  15684 21|  48.9 -27 | 0.4  | 9.1  |
+[[/table]]
+
+=======================
+Page: 2 of 3
+Link: https://transcription.si.edu/transcribe/50684/ERUVZ
+=======================
+
+[[preprinted]] 44 [[/preprinted]]
+Monday, Sept. 20, 1915
+B41066 short
+[[table]]
+|No|Int|Class|Remark|
+|---|---|---|---|
+|105|8|F2|   |
+|106|8|F2|   |
+|107|5|F0|   |
+|108|2|F8|   |
+|109|8|K0|   |
+|110|4|F0|   |
+|111|6|G5|   |
+|112|3|Ma|   |
+|113|1|K0|   |
+|114|3|G5|   |
+|115|1|G5|   |
+|116|2|F8|   |
+|117|8|F0|   |
+|118|9|F2|   |
+|119|3|G5|   |
+|120|2|K0|   |
+|121|1|G0|   |
+|122|4|G5|   |
+|123|1|G5|   |
+|124|1|G5|   |
+|125|2|G5|   |
+|126|1|K2|   |
+|127|1|K5|   |
+|128|5|K0|   |
+|129|4|A0|   |
+|130|1|K2|   |
+[[/table]]
+
+
+=======================
+Page: 3 of 3
+https://transcription.si.edu/transcribe/50684/ERUW8
+=======================
+
+[[preprinted]] 47 [[/preprinted]]
+[[table]]
+|   |   |   |   |   |
+|---|---|---|---|---|
+|131|-34[[symbol - degree symbol]] 15559|22 16.9|-34 22|8.3|
+|132|-33[[symbol - degree symbol]] 16056|22 17.5|-33 54|7.5| 
+|133|-34[[symbol - degree symbol]] 15575|22 18.2|-34 16|8.7| 
+|134|-34[[symbol - degree symbol]] 15580|22 18.6|-34  0|8.0| 
+|135|-32[[symbol - degree symbol]] 17056|22 16.9|-32  6|8.3| 
+|136|-31[[symbol - degree symbol]] 18770|22 15.1|-31 46|8.4| 
+|137|-32[[symbol - degree symbol]] 17043|22 14.3|-32 22|9.3| 
+|138|-32[[symbol - degree symbol]] 17034|22 13.9|-32 45|8.5| 
+|139|-32[[symbol - degree symbol]] 17036|32 14.0|-32 48|8.7| 
+|140|-31[[symbol - degree symbol]] 18740|22 11.8|-31 29|8.7| 
+|141|-31[[symbol - degree symbol]] 18734|22 11.4|-31 16|9.0| 
+|142|-31[[symbol - degree symbol]] 18735|22 11.5|-31 18|7.8| 
+|143|-31[[symbol - degree symbol]] 18742|22 12.0|-31 20|9.0| 
+|144|-31[[symbol - degree symbol]] 18745|22 12.2|-31 15|9.3| 
+|145|-30[[symbol - degree symbol]] 19106|22 13.3|-30 52|8.7| 
+|146|-31[[symbol - degree symbol]] 18758|22 13.4|-31  1|8.9| 
+|147|-30[[symbol - degree symbol]] 19102|22 13.2|-30 21|8.8| 
+|148|-30[[symbol - degree symbol]] 19081|22  9.3|-30 12|8.6| 
+|149|-29[[symbol - degree symbol]] 18274|22  9.8|-29 57|9.0| 
+|150|-29[[symbol - degree symbol]] 18270|22  9.4|-29 58|9.1| 
+|151|-30[[symbol - degree symbol]] 19073|22  7.4|-30  1|8.6| 
+|152|-29[[symbol - degree symbol]] 18244|22  7.3|-29 44|8.3| 
+|153|-29[[symbol - degree symbol]] 18248|22  7.6|-29 30|8.5| 
+|154|-30[[symbol - degree symbol]] 19062|22  6.0|-30  9|8.7| 
+|155|-30[[symbol - degree symbol]] 19054|22  4.7|-30  9|8.8| 
+|156|-30[[symbol - degree symbol]] 19047|22  4.0|-30 50|8.9|
+
+[[annotation]]Partly sup. on -32 17034 [[/annotation]]
+[[annotation]]Partly sup. -31 18735 [[/annotation]]
+[[annotation]] -31 [[symbol - degree symbol]] 18736 sup. 9.0[[/annotation]]
+[[annotation]] -29 [[symbol - degree symbol]] 18249 sup. 9.2[[/annotation]]

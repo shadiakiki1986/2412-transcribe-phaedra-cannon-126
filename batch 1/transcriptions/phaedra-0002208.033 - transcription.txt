@@ -1,0 +1,41 @@
+=======================
+Filename: phaedra-0002208.033.jpg
+Page: 1 of 1
+Link: https://transcription.si.edu/transcribe/50684/ERUVa
+https://static.adsabs.harvard.edu/static/phaedra/phaedra2208/0002208.033.jpg
+=======================
+
+[[preprinted]]27[[/preprinted]]
+
+[[table]]
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 79|-24[[symbol - degree symbol]] 16799 | 21 37.2|-24  5.4 | 9.0 |
+| 80|-24[[symbol - degree symbol]] 16797 | 21 37.0|-24 33.4 | 9.2 |
+| 81|-24[[symbol - degree symbol]] 16829 | 21 40.4|-24 14.8 | 8.8 |
+| 82|-24[[symbol - degree symbol]] 16834 | 21 40.8|-24 21.4 | 8.9 |
+| 83|-24[[symbol - degree symbol]] 16836 | 21 41.1|-24 88.2 | 8.3 | 
+| 84|-24[[symbol - degree symbol]] 16839 | 21 41.4|-24 54.8 | 9.4 | 
+| 85|-25[[symbol - degree symbol]] 15593 | 21 41.7|-25  2.2 | 8.5 |
+| 86|-24[[symbol - degree symbol]] 16841 | 21 41.7|-24 54.8 | 9.4 |
+| 87|-25[[symbol - degree symbol]] 15596 | 21 42.4|-25 25.2 | 9.3 |
+| 88|-25[[symbol - degree symbol]] 15600 | 21 42.7|-25 25.8 | 9.3 |
+| 89|-25[[symbol - degree symbol]] 15602 | 21 42.9|-25 16.5 | 9.1 |
+| 90|-24[[symbol - degree symbol]] 16860 | 21 43.5|-24 46.3 | 8.0 |
+| 91|-24[[symbol - degree symbol]] 16857 | 21 43.2|-24 36.7 | 9.9 |
+| 92|-24[[symbol - degree symbol]] 16854 | 21 43.0|-24 24.1 | 9.0 |
+| 93|-24[[symbol - degree symbol]] 16866 | 21 44.2|-24 50.8 | 9.7 |
+| 94|-24[[symbol - degree symbol]] 16842 | 21 41.8|-24 13.1 | 8.7 |
+| 95|-23[[symbol - degree symbol]] 17117 | 21 42.1|-23 23.6 | 7.9 |
+| 96|-23[[symbol - degree symbol]] 17120 | 21 42.3|-23 11.9 | 9.2 |
+| 97|-22[[symbol - degree symbol]]  5770 | 21 40.5|-22 47.8 | 8.7 |
+| 98|-23[[symbol - degree symbol]] 17104 | 21 40.9|-23 20.3 | 9.6 |
+| 99|-23[[symbol - degree symbol]] 17101 | 21 40.3|-23 31.1 | 9.2 |
+|100|-24[[symbol - degree symbol]] 16828 | 21 40.3|-24  8.8 | 9.6 |
+|101|-23[[symbol - degree symbol]] 17097 | 21 39.9|-23 14.6 | 9.5 |
+|102|-23[[symbol - degree symbol]] 17096 | 21 39.7|-23  3.6 | 8.6 |
+|103|-23[[symbol - degree symbol]] 17093 | 21 39.2|-23  0.6 | 9.3 |
+|104|-22[[symbol - degree symbol]]  5762 | 21 38.3|-22 47.7 | 9.3 |
+[[/table]]
+
+[[annotation]] Another star not. in cat. susp. closely preceded. [[/annotation]]

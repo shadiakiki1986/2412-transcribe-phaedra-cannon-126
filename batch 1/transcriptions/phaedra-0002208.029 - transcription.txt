@@ -1,0 +1,38 @@
+=======================
+Filename: phaedra-0002208.029.jpg
+Page: 1 of 1
+Link: https://transcription.si.edu/transcribe/50684/ERUUY
+https://static.adsabs.harvard.edu/static/phaedra/phaedra2208/0002208.029.jpg
+=======================
+
+[[preprinted]] 23 [[/preprinted]]
+[[table]]
+|   |   |   |   |   |
+|---|---|---|---|---|
+|27|-25[[symbol-degree symbol]]15615|21 44.5|-25 37.5|8.9|
+|28|-26[[symbol-degree symbol]]15846|21 44.3|-26 2.2|9.3|
+|29|-25[[symbol-degree symbol]]15617|21 44.8|-25 51.8|9.1|
+|30|-25[[symbol-degree symbol]]15626|21 45.3|-25 56.8|8.3|
+|31|-27[[symbol-degree symbol]]15650|21 43.9|-27 1.4|9.4|
+|32|-27[[symbol-degree symbol]]15644|21 43.1|-27 10.3|9.5|
+|33|-27[[symbol-degree symbol]]15640|21 43.1|-27 10.3|9.3|
+|34|-27[[symbol-degree symbol]]15638|21 42.6|-27 11.7|9.3|
+|35|-27[[symbol-degree symbol]]15635|21 44.3|-27 14.7|9.4|
+|36|-27[[symbol-degree symbol]]15657|21 44.6|-27 8.6|9.3|
+|37|-26[[symbol-degree symbol]]1556|21 45.2|-26 48.1|9.3|
+|38|-26[[symbol-degree symbol]]15857|21 45.4|-26 53.1|9.4|
+|39|-27[[symbol-degree symbol]]15663|21 45.5|-27 5.0|9.6|
+|40|-26[[symbol-degree symbol]]15867|21 46.4|-26 11.8|9.6|
+|41|-25[[symbol-degree symbol]]15635|21 46.4|-25 45.2|9.1|
+|42|-25[[symbol-degree symbol]]15642|21 46.8|-25 43.6|8.8|
+|43|-24[[symbol-degree symbol]]16874|21 45.0|-24 58.8|8.6|
+|44|-24[[symbol-degree symbol]]16889|21 46.3|-24 39.0|8.3|
+|45|-25[[symbol-degree symbol]]15630|21 46.1|-25 8.3|9.1|
+|46|-24[[symbol-degree symbol]]16901|21 48.3|-24 19.0|8.8|
+|47|-23[[symbol-degree symbol]]17167|21 48.4|-23 52.5|8.3|
+|48|-23[[symbol-degree symbol]]17171|21 48.7|-23 39.0|8.0|
+|49|-23[[symbol-degree symbol]]17173|21 48.7|-23 363|9.7|
+|50|-23[[symbol-degree symbol]]17176|21 49.4|-23 51.6|8.8|
+|51|-24[[symbol-degree symbol]]16911|21 49.5|-24 8.7|9.1|
+|52|-24[[symbol-degree symbol]]16908|21 49.1|-24 24.3|9.0|
+[[/table]]

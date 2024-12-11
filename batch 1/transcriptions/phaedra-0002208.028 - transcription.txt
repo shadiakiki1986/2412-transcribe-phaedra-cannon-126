@@ -1,0 +1,39 @@
+=======================
+Filename: page=28 - 0002208.028.jpg
+Page: 1 of 1
+https://transcription.si.edu/transcribe/50684/ERUUV
+https://static.adsabs.harvard.edu/static/phaedra/phaedra2208/0002208.028.jpg
+=======================
+
+[[preprinted]] 22 [[/preprinted]]
+Friday, Sept. 17, 1915
+B39687 short
+[[table]]
+|No|Int|Class|Remark|
+|---|---|---|---|
+|27|5|A0|   |
+|28|1|F2|   |
+|29|2|G0|   |
+|30|5|K0|   |
+|31|2|G0|   |
+|32|1|K2|   |
+|33|1|F5|   |
+|34|2|F8|   |
+|35|1|K0|   |
+|36|2|F8|   |
+|37|2|G5|   |
+|38|1|F8|   |
+|39|1|F8|   |
+|40|2|F5|   |
+|41|2|G0|   |
+|42|4|F8|   |
+|43|6|F0|   |
+|44|6|K0|   |
+|45|1|F8|   |
+|46|6|K0|   |
+|47|5|Mb|   |
+|48|7|K5|Perhaps Ma Focus poor at red end|
+|49|1|A |Partly sup. on 48  |
+|50|2|K5|   |
+|52|4|G5|   |
+[[/table]]
