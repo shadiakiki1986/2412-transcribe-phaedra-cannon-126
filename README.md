@@ -1,8 +1,9 @@
 This is my repo for text files of transcriptions for https://transcription.si.edu/project/50684?status=transcription
 
 Did this as part of my voya volunteer hours for 2024
-- https://web.archive.org/web/20241211224023/https://www.voya.com/page/voyas-values
 - Quote: "Volunteer Time Away – Provides paid time away to volunteer for eligible nonprofit organizations during work hours (40 hours for full-time, 20 hours for part-time)."
+- https://www.voya.com/page/voyas-values
+- https://web.archive.org/web/20241211224315/http://web.archive.org/screenshot/https://www.voya.com/page/voyas-values?ts=2
 
 Volunteered in 2022-06 on the same project, but did it manually and was slow.
 
