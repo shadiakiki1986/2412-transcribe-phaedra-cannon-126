@@ -52,11 +52,22 @@ General Method of transcription (check each batch's readme for specific method u
 
 2024-12-12
 
+- 11:30 clock out
+  - Project progress (copied from project page):
+    - 73 pages not yet started
+    - 11 pages partially transcribed
+    - 17 pages needing review
+    - 125 pages completed
 - 09:45 clock-in
+  - Will continue working on batch 2
+  - Project progress (copied from project page):
+    - n/a
 
 2024-12-11
 
 - 17:15 clock out
+  - Project progress (copied from project page):
+    - n/a
 - 17:15 upload folder to google drive and text-only to github
 - 17:10 worked on batch 2
   - submitted `phaedra-2208 to_transcribe (first 3) - transcribed`
@@ -68,3 +79,6 @@ General Method of transcription (check each batch's readme for specific method u
   - Instructions at https://transcription.si.edu/instructions-women-computers-workbooks
 - 11:00 submitted batch 1 of transcriptions of pages 28 29 33 35 
 - 09:30 clock in
+  - Project progress (copied from project page):
+    - n/a
+
