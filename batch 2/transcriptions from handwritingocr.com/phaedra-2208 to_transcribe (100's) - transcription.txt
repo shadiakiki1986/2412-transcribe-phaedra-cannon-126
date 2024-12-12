@@ -25,13 +25,13 @@ Logs:
 |39|-22[[symbol - degree symbol]] 5888|22 12.0|-22 44|8.0|
 |40|-23[[symbol - degree symbol]] 17385|22 14.2|-23 7|8.7|
 |41|-23[[symbol - degree symbol]] 17380|22 13.9|-23 21|8.5|
-|42|-23[[symbol - degree symbol]] 17376[[strikethrough]] 5 [[/strikethrough]]|22 13.7|-23 14|9.0|
+|42|-23[[symbol - degree symbol]] 17376[[strikethrough]] 5 [[/strikethrough]] 22 13.7|-23 14|9.0|
 |43|-23[[symbol - degree symbol]] 173[[strikethrough]]7[[/strikethrough]]87|22 14.7|-23 27|9.0|
 |44|-22[[symbol - degree symbol]] 5899|22 14.7|-22 54|9.0|
 |45|-22[[symbol - degree symbol]] 5901|22 17.7|-22 34|9.4|
 |46|-22[[symbol - degree symbol]] 5897|22 13.6|-22 19|5.7|
 |47|-22[[symbol - degree symbol]] 5895|22 13.2|-22 21|8.8|
-|48|-22[[symbol - degree symbol]] 5893|22 13.0|-22 22|9.0|
+|48|-22[[symbol - degree symbol]] 5893|22 13.0|-22|22 9.0|
 |49|-22[[symbol - degree symbol]] 5896|22 13.4|-22 4|9.2|
 |50|-21[[symbol - degree symbol]] 6206|22 13.7|-21 31|8.9|
 |51|-21[[symbol - degree symbol]] 6207|22 14.0|-21 33|8.5|
@@ -199,32 +199,32 @@ Page: 6 of 87
 
 |    |         |     |      | 
 | ---|---------|-----|------| 
-| 27 -23[[symbol - degree symbol]]|17473 22|24.7|49 8.9| 
-| 28 -22[[symbol - degree symbol]]|5933 22|24.1|21 9.2| 
-| 29 -21[[symbol - degree symbol]]|6245 22|24.5|27 9.2| 
-| 30 -21[[symbol - degree symbol]]|6244 22|24.2|31 9.4| 
-| 31 -21[[symbol - degree symbol]]|6235 22|21.2|31 9.3| 
-| 32 -21[[symbol - degree symbol]]|6237 22|21.3|42 9.4| 
-| 33 -21[[symbol - degree symbol]]|628 6 22|21.3|58 9.8| 
-| 34 -22[[symbol - degree symbol]]|5921 22|21.0|21 9.3| 
-| 35 -21[[symbol - degree symbol]]|6230 22|20.6|52 9.3| 
-| 36 -22[[symbol - degree symbol]]|5914 22|18.9|56 9.3| 
-| 37 -22[[symbol - degree symbol]]|5928 22|23.0|20 9.3| 
-| 38 -21[[symbol - degree symbol]]|6246 22|25.2|39 9.3| 
-| 39 -21[[symbol - degree symbol]]|6247 22|25.6|57 9.2| 
-| 40 -22[[symbol - degree symbol]]|5942 22|26.6|50 9.5| 
-| 41 -21[[symbol - degree symbol]]|6251 22|26.8| 6 9.2| 
-| 42 -21[[symbol - degree symbol]]|6254 22|28.0|27 5.7| 
-| 43 -21[[symbol - degree symbol]]|6257 22|28.9|41 7.3 21[[symbol - degree symbol]] 6253 mag. 9.2 sup. s.p.| 
-| 44 -22[[symbol - degree symbol]]|5947 22|28.3|50 7.8 -22[[symbol - degree symbol]] 5914 mag. 9.3 sup. s.p.| 
-| 45 -22[[symbol - degree symbol]]|5951 22|28.6|26 9.0| 
-| 46 -22[[symbol - degree symbol]]|5953 22|28.9|20 8.6| 
-| 47 -22[[symbol - degree symbol]]|5954 22|29.0|17 8.9| 
-| 48 -22[[symbol - degree symbol]]|5956 22|29.7|25 9.1| 
-| 49 -22[[symbol - degree symbol]]|5960 22|30.8|33 8.3| 
-| 50 -21[[symbol - degree symbol]]|6266 22|30.6|24 8.6| 
-| 51 -21[[symbol - degree symbol]]|6267 22|30.8|35 8.7| 
-| 52 -21[[symbol - degree symbol]]|4263 22|30.1|22 9.0 21[[symbol - degree symbol]] 6262 mag. 9.0 sup. at north |
+| 27 -23[[symbol - degree symbol]] 17473|22 24.7|49 8.9| 
+| 28 -22[[symbol - degree symbol]] 5933|22 24.1|21 9.2| 
+| 29 -21[[symbol - degree symbol]] 6245|22 24.5|27 9.2| 
+| 30 -21[[symbol - degree symbol]] 6244|22 24.2|31 9.4| 
+| 31 -21[[symbol - degree symbol]] 6235|22 21.2|31 9.3| 
+| 32 -21[[symbol - degree symbol]] 6237|22 21.3|42 9.4| 
+| 33 -21[[symbol - degree symbol]] 628 6|22 21.3|58 9.8| 
+| 34 -22[[symbol - degree symbol]] 5921|22 21.0|21 9.3| 
+| 35 -21[[symbol - degree symbol]] 6230|22 20.6|52 9.3| 
+| 36 -22[[symbol - degree symbol]] 5914|22 18.9|56 9.3| 
+| 37 -22[[symbol - degree symbol]] 5928|22 23.0|20 9.3| 
+| 38 -21[[symbol - degree symbol]] 6246|22 25.2|39 9.3| 
+| 39 -21[[symbol - degree symbol]] 6247|22 25.6|57 9.2| 
+| 40 -22[[symbol - degree symbol]] 5942|22 26.6|50 9.5| 
+| 41 -21[[symbol - degree symbol]] 6251|22 26.8| 6 9.2| 
+| 42 -21[[symbol - degree symbol]] 6254|22 28.0|27 5.7| 
+| 43 -21[[symbol - degree symbol]] 6257|22 28.9|41 7.3 21[[symbol - degree symbol]] 6253 mag. 9.2 sup. s.p.| 
+| 44 -22[[symbol - degree symbol]] 5947|22 28.3|50 7.8 -22[[symbol - degree symbol]] 5914 mag. 9.3 sup. s.p.| 
+| 45 -22[[symbol - degree symbol]] 5951|22 28.6|26 9.0| 
+| 46 -22[[symbol - degree symbol]] 5953|22 28.9|20 8.6| 
+| 47 -22[[symbol - degree symbol]] 5954|22 29.0|17 8.9| 
+| 48 -22[[symbol - degree symbol]] 5956|22 29.7|25 9.1| 
+| 49 -22[[symbol - degree symbol]] 5960|22 30.8|33 8.3| 
+| 50 -21[[symbol - degree symbol]] 6266|22 30.6|24 8.6| 
+| 51 -21[[symbol - degree symbol]] 6267|22 30.8|35 8.7| 
+| 52 -21[[symbol - degree symbol]] 4263|22 30.1|22 9.0 21[[symbol - degree symbol]] 6262 mag. 9.0 sup. at north |
 
 
 =======================
@@ -267,38 +267,43 @@ B 24 33 8 Short
 
 =======================
 Page: 8 of 87
+Link: https://transcription.si.edu/transcribe/50684/ERUYQ
+Log:
+- 2024-12-12 submitted
 =======================
 
-103
-
-|      |         |         |   |   | 
-| :----|:--------|:--------|:-:|:-:| 
-| 53 - 21[[symbol - degree symbol]]|6271 22|31.7 - 21|48 |8.9| 
-| 54 - 21[[symbol - degree symbol]]|6274 22|32.3 - 21|28 |9.0| 
-| 55 - 21[[symbol - degree symbol]]|6272 22|31.9 - 21|15 |9.4| 
-| 56 - 21[[symbol - degree symbol]]|6275 22|32.4 - 21|2  |9.2| 
-| 57 - 20[[symbol - degree symbol]]|6470 22|33.4 - 20|57 |9.1| 
-| 58 - 21[[symbol - degree symbol]]|6283 22|34.1 - 21|32 |9.0| 
-| 59 - 21[[symbol - degree symbol]]|6286 22|34.5 - 21|23 |9.5| 
-| 60 - 21[[symbol - degree symbol]]|6287 22|34.8 - 21|42 |8.6| 
-| 61 - 21[[symbol - degree symbol]]|6288 22|35.0 - 21|56 |9.0| 
-| 62 - 21[[symbol - degree symbol]]|6291 22|36.2 - 21|30 |9.0| 
-| 63- 21[[symbol - degree symbol]]|6296 22|37.5 - 21|38 |9.0| 
-| 64- 21[[symbol - degree symbol]]|6294 22|36.7 - 21|42 |9.3| 
-| 65 - 21[[symbol - degree symbol]]|6297 22|37.9 - 21|26 |9.0| 
-| 66 - 21[[symbol - degree symbol]]|6295 22|37.3 - 21|7  |9.1| 
-| 67 - 21[[symbol - degree symbol]]|6293 22|36.6 - 21|5  |9.6| 
-| 68 - 20[[symbol - degree symbol]]|6474 22|36.2 - 20|38 |9.5| 
-| 69 - 21[[symbol - degree symbol]]|6303 22|39.0 - 21|33 |7.9| 
-| 70 - 21[[symbol - degree symbol]]|6305 22|39.6 - 21|49 |8.5| 
-| 71 - 22[[symbol - degree symbol]]|6001 22|40.2 - 22|24 |8.3| 
-| 72 - 22[[symbol - degree symbol]]|5999 22|39.9 - 22|55 |8.8| 
-| 73 - 22[[symbol - degree symbol]]|5998 22|39.9 - 22|58 |8.8| 
-| 74 - 22[[symbol - degree symbol]]|5997 22|39.5 - 22|97 |9.1| 
-| 75 - 22[[symbol - degree symbol]]|5993 22|38.1 - 22|58 |9.0| 
-| 76 - 22[[symbol - degree symbol]]|5989 22|37.3 - 22|66 |9.3| 
-| 77 - 22[[symbol - degree symbol]]|5988 22|37.1 - 22|35 |9.0| 
-| 78 - 22[[symbol - degree symbol]]|5987 22|36.8 - 22|46 |9.1 |
+[[preprinted] 103 [[/preprinted]
+[[table]]
+|   |   |   |   |   |
+|---|---|---|---|---| 
+|53|-21[[symbol - degree symbol]] 6271|22 31.7|-21 48|8.9| 
+|54|-21[[symbol - degree symbol]] 6274|22 32.3|-21 28|9.0| 
+|55|-21[[symbol - degree symbol]] 6272|22 31.9|-21 15|9.4| 
+|56|-21[[symbol - degree symbol]] 6275|22 32.4|-21 2 |9.2| 
+|57|-20[[symbol - degree symbol]] 6470|22 33.4|-20 57|9.1| 
+|58|-21[[symbol - degree symbol]] 6283|22 34.1|-21 32|9.0| 
+|59|-21[[symbol - degree symbol]] 6286|22 34.5|-21 23|9.5| 
+|60|-21[[symbol - degree symbol]] 6287|22 34.8|-21 42|8.6| 
+|61|-21[[symbol - degree symbol]] 6288|22 35.0|-21 56|9.0| 
+|62|-21[[symbol - degree symbol]] 6291|22 36.2|-21 30|9.0| 
+|6[[strikethrough]]3[[/strikethrough]]4|-21[[symbol - degree symbol]] 6296|22 37.5|-21 38|9.0| 
+|6[[strikethrough]]4[[/strikethrough]]3|-21[[symbol - degree symbol]] 6294|22 36.7|-21 42|9.3| 
+|65|-21[[symbol - degree symbol]] 6297|22 37.9|-21 26|9.0| 
+|66|-21[[symbol - degree symbol]] 6295|22 37.3|-21 7 |9.1| 
+|67|-21[[symbol - degree symbol]] 6293|22 36.6|-21 5 |9.6| 
+|68|-20[[symbol - degree symbol]] 6474|22 36.2|-20 38|9.5| 
+|69|-21[[symbol - degree symbol]] 6303|22 39.0|-21 33|7.9| 
+|70|-21[[symbol - degree symbol]] 6305|22 39.6|-21 49|8.5| 
+|71|-22[[symbol - degree symbol]] 6001|22 40.2|-22 24|8.3| 
+|72|-22[[symbol - degree symbol]] 5999|22 39.9|-22 55|8.8| 
+|73|-22[[symbol - degree symbol]] 5998|22 39.9|-22 58|8.8| 
+|74|-22[[symbol - degree symbol]] 5997|22 39.5|-22 97|9.1| 
+|75|-22[[symbol - degree symbol]] 5993|22 38.1|-22 58|9.0| 
+|76|-22[[symbol - degree symbol]] 5989|22 37.3|-22 66|9.3| 
+|77|-22[[symbol - degree symbol]] 5988|22 37.1|-22 35|9.0| 
+|78|-22[[symbol - degree symbol]] 5987|22 36.8|-22 46|9.1|
+[[/table]]
+[[annotation]] nos. changed [[/annotation]]
 
 =======================
 Page: 9 of 87
@@ -346,32 +351,32 @@ Page: 10 of 87
 
 |      |         |         |  |  | 
 | :----|:--------|:--------|:-|:-| 
-| 79-22[[symbol - degree symbol]]|5991 22|37.6-22|9 |9.5| 
-| 80-22[[symbol - degree symbol]]|5990 22|37.6-22|19|9.5| 
-| 81-21[[symbol - degree symbol]]|6299 22|38.3-21|50|9.4| 
-| 82-21[[symbol - degree symbol]]|6298 22|38.2-21|36|9.4| 
-| 83-22[[symbol - degree symbol]]|5982 22|35.1-22|25|7.0| 
-| 84-22[[symbol - degree symbol]]|5980 22|34.9-22|31|9.5| 
-| 85-22[[symbol - degree symbol]]|5976 22|34.2-22|32|9.0| 
-| 86-22[[symbol - degree symbol]]|16019 22|35.9-22|57|   | 
-| 87-23[[symbol - degree symbol]]|17555 22|34.6-23|12|9.0| 
-| 88-23[[symbol - degree symbol]]|17553 22|34.2-23|6 |8.6| 
-| 89-23[[symbol - degree symbol]]|17551 22|34.1-23|19|9.6| 
-| 90-23[[symbol - degree symbol]]|17538 22|32.7-23|25|8.0| 
-| 91-23[[symbol - degree symbol]]|17534 22|32.3-23|18|8.0| 
-| 92-23[[symbol - degree symbol]]|17528 22|31.6-23|23|7.7| 
-| 93-23[[symbol - degree symbol]]|17523 22|31.1-23|18|8.5| 
-| 94-23[[symbol - degree symbol]]|17522 22|31.1-23|0 |9.4| 
-| 95-23[[symbol - degree symbol]]|17516 22|30.6-23|3 |9.0| 
-| 96-22[[symbol - degree symbol]]|5962 22|31.8-22|57|8.9| 
-| 97-22[[symbol - degree symbol]]|5966 22|32.5-22|49|9.3| 
-| 98-22[[symbol - degree symbol]]|5961 22|31.2-22|18|9.2| 
-| 99-21[[symbol - degree symbol]]|6277 22|32.5-21|50|9.6| 
-| 100-23[[symbol - degree symbol]]|17531 22|32.0-23|49|8.9| 
-| 101-23[[symbol - degree symbol]]|17529 22|31.8-23|41|9.2| 
-| 102-23[[symbol - degree symbol]]|17519 22|30.8-23|54|9.0| 
-| 103-23[[symbol - degree symbol]]|17515 22|30.4-23|34|9.1| 
-| 104-23[[symbol - degree symbol]]|17513 22|30.2-23|40|9.2 |
+| 79-22[[symbol - degree symbol]] 5991|22 37.6-22|9 |9.5| 
+| 80-22[[symbol - degree symbol]] 5990|22 37.6-22|19|9.5| 
+| 81-21[[symbol - degree symbol]] 6299|22 38.3-21|50|9.4| 
+| 82-21[[symbol - degree symbol]] 6298|22 38.2-21|36|9.4| 
+| 83-22[[symbol - degree symbol]] 5982|22 35.1-22|25|7.0| 
+| 84-22[[symbol - degree symbol]] 5980|22 34.9-22|31|9.5| 
+| 85-22[[symbol - degree symbol]] 5976|22 34.2-22|32|9.0| 
+| 86-22[[symbol - degree symbol]] 16019|22 35.9-22|57|   | 
+| 87-23[[symbol - degree symbol]] 17555|22 34.6-23|12|9.0| 
+| 88-23[[symbol - degree symbol]] 17553|22 34.2-23|6 |8.6| 
+| 89-23[[symbol - degree symbol]] 17551|22 34.1-23|19|9.6| 
+| 90-23[[symbol - degree symbol]] 17538|22 32.7-23|25|8.0| 
+| 91-23[[symbol - degree symbol]] 17534|22 32.3-23|18|8.0| 
+| 92-23[[symbol - degree symbol]] 17528|22 31.6-23|23|7.7| 
+| 93-23[[symbol - degree symbol]] 17523|22 31.1-23|18|8.5| 
+| 94-23[[symbol - degree symbol]] 17522|22 31.1-23|0 |9.4| 
+| 95-23[[symbol - degree symbol]] 17516|22 30.6-23|3 |9.0| 
+| 96-22[[symbol - degree symbol]] 5962|22 31.8-22|57|8.9| 
+| 97-22[[symbol - degree symbol]] 5966|22 32.5-22|49|9.3| 
+| 98-22[[symbol - degree symbol]] 5961|22 31.2-22|18|9.2| 
+| 99-21[[symbol - degree symbol]] 6277|22 32.5-21|50|9.6| 
+| 100-23[[symbol - degree symbol]] 17531|22 32.0-23|49|8.9| 
+| 101-23[[symbol - degree symbol]] 17529|22 31.8-23|41|9.2| 
+| 102-23[[symbol - degree symbol]] 17519|22 30.8-23|54|9.0| 
+| 103-23[[symbol - degree symbol]] 17515|22 30.4-23|34|9.1| 
+| 104-23[[symbol - degree symbol]] 17513|22 30.2-23|40|9.2 |
 
 =======================
 Page: 11 of 87
@@ -472,32 +477,32 @@ Page: 14 of 87
 
 |    |    |   |    |   |    | 
 | ---|----|---|----|---|----| 
-| 1  |-30[[symbol - degree symbol]]|19165|22 |20.4 -30|52  8.7| 
-| 2  |-31[[symbol - degree symbol]]|18818|22 |20.8 -31|14  9.2 -31[[symbol - degree symbol]]18817aup. 9.4| 
-| 3  |-31[[symbol - degree symbol]]|18830|22 |21.9 -31|17  8.0 -31[[symbol - degree symbol]]18832 sup on foll| 
-| 4  |-30[[symbol - degree symbol]]|19175|22 |22.2 -30|38  7.3| 
-| 5  |-31[[symbol - degree symbol]]|18846|22 |23.2 -31|5   7.9| 
-| 6  |-30[[symbol - degree symbol]]|19188|22 |23.6 -30|46  8.5| 
-| 7  |-31[[symbol - degree symbol]]|18854|22 |23.9 -31|40  7.3| 
-| 8  |-31[[symbol - degree symbol]]|18861|22 |25.0 -31|49  8.1| 
-| 9  |-32[[symbol - degree symbol]]|17119|22 |23.7 -32|10  8.0| 
-| 10 |-30[[symbol - degree symbol]]|19205|22 |26.4 -30|22  8.9| 
-| 11 |-30[[symbol - degree symbol]]|19208|22 |26.5 -30|19  7.3| 
-| 12 |-29[[symbol - degree symbol]]|18384|22 |26.0 -29|38  8.1| 
-| 13 |-29[[symbol - degree symbol]]|18367|22 |22.5 -29|43  8.7| 
-| 14 |-29[[symbol - degree symbol]]|18350|22 |21.7 -29|22  9.2| 
-| 15 |-30[[symbol - degree symbol]]|19174|22 |22.0 -30|12  9.1| 
-| 16 |-29[[symbol - degree symbol]]|18367|22 |23.2 -29|31  9.3| 
-| 17 |-29[[symbol - degree symbol]]|18373|22 |24.1 -29|56  9.1| 
-| 18 |-28[[symbol - degree symbol]]|17815|22 |26.4 -28|48  8.3| 
-| 19 |-28[[symbol - degree symbol]]|17818|22 |26.6 -28|37  8.9| 
-| 20 |-28[[symbol - degree symbol]]|17809|22 |25.6 -28|21  8.5| 
-| 21 |-28[[symbol - degree symbol]]|17803|22 |25.0 -28|47  9.1| 
-| 22 |-28[[symbol - degree symbol]]|17827|22 |27.2 -28|18  8.7| 
-| 23 |-28[[symbol - degree symbol]]|17828|22 |27.4 -28|11  8.9| 
-| 24 |-28[[symbol - degree symbol]]|17829|22 |27.5 -28|1   8.7| 
-| 25 |-28[[symbol - degree symbol]]|17833|22 |28.1 -28|12  9.1| 
-| 26 |-28[[symbol - degree symbol]]|17834|22 |28.1 -28|6   8.5 |
+| 1  |-30[[symbol - degree symbol]] 19165|22 |20.4 -30|52  8.7| 
+| 2  |-31[[symbol - degree symbol]] 18818|22 |20.8 -31|14  9.2 -31[[symbol - degree symbol]]18817aup. 9.4| 
+| 3  |-31[[symbol - degree symbol]] 18830|22 |21.9 -31|17  8.0 -31[[symbol - degree symbol]]18832 sup on foll| 
+| 4  |-30[[symbol - degree symbol]] 19175|22 |22.2 -30|38  7.3| 
+| 5  |-31[[symbol - degree symbol]] 18846|22 |23.2 -31|5   7.9| 
+| 6  |-30[[symbol - degree symbol]] 19188|22 |23.6 -30|46  8.5| 
+| 7  |-31[[symbol - degree symbol]] 18854|22 |23.9 -31|40  7.3| 
+| 8  |-31[[symbol - degree symbol]] 18861|22 |25.0 -31|49  8.1| 
+| 9  |-32[[symbol - degree symbol]] 17119|22 |23.7 -32|10  8.0| 
+| 10 |-30[[symbol - degree symbol]] 19205|22 |26.4 -30|22  8.9| 
+| 11 |-30[[symbol - degree symbol]] 19208|22 |26.5 -30|19  7.3| 
+| 12 |-29[[symbol - degree symbol]] 18384|22 |26.0 -29|38  8.1| 
+| 13 |-29[[symbol - degree symbol]] 18367|22 |22.5 -29|43  8.7| 
+| 14 |-29[[symbol - degree symbol]] 18350|22 |21.7 -29|22  9.2| 
+| 15 |-30[[symbol - degree symbol]] 19174|22 |22.0 -30|12  9.1| 
+| 16 |-29[[symbol - degree symbol]] 18367|22 |23.2 -29|31  9.3| 
+| 17 |-29[[symbol - degree symbol]] 18373|22 |24.1 -29|56  9.1| 
+| 18 |-28[[symbol - degree symbol]] 17815|22 |26.4 -28|48  8.3| 
+| 19 |-28[[symbol - degree symbol]] 17818|22 |26.6 -28|37  8.9| 
+| 20 |-28[[symbol - degree symbol]] 17809|22 |25.6 -28|21  8.5| 
+| 21 |-28[[symbol - degree symbol]] 17803|22 |25.0 -28|47  9.1| 
+| 22 |-28[[symbol - degree symbol]] 17827|22 |27.2 -28|18  8.7| 
+| 23 |-28[[symbol - degree symbol]] 17828|22 |27.4 -28|11  8.9| 
+| 24 |-28[[symbol - degree symbol]] 17829|22 |27.5 -28|1   8.7| 
+| 25 |-28[[symbol - degree symbol]] 17833|22 |28.1 -28|12  9.1| 
+| 26 |-28[[symbol - degree symbol]] 17834|22 |28.1 -28|6   8.5 |
 
 
 =======================
@@ -545,34 +550,34 @@ Page: 16 of 87
 
 115
 
-27 - 28[[symbol - degree symbol]]  17837  22  28.6 - 28  23  8.4  
-28 - 29[[symbol - degree symbol]]  18400  22  28.8 - 29  8   8.7  
-29 - 29[[symbol - degree symbol]]  18401  22  28.9 - 29  12  9.1  
-30 - 28[[symbol - degree symbol]]  17841  22  29.3 - 28  57  9.0  
-31 - 29[[symbol - degree symbol]]  18397  22  29.0 - 29  26  8.5  
+27|-28[[symbol - degree symbol]]  17837  22  28.6|-28  23  8.4  
+28|-29[[symbol - degree symbol]]  18400  22  28.8|-29  8   8.7  
+29|-29[[symbol - degree symbol]]  18401  22  28.9|-29  12  9.1  
+30|-28[[symbol - degree symbol]]  17841  22  29.3|-28  57  9.0  
+31|-29[[symbol - degree symbol]]  18397  22  29.0|-29  26  8.5  
 32 - 30[[symbol - degree symbol]]  19215  22  29.1 - 30  4   8.9  
 33 - 30[[symbol - degree symbol]]  19221  22  28.8 - 30  59  7.4  
 34 - 30[[symbol - degree symbol]]  19235  22  30.5 - 30  37  8.5  
-35 - 29[[symbol - degree symbol]]  18410  22  30.7 - 29  42  8.2  
-36 - 29[[symbol - degree symbol]]  18408  22  30.6 - 29  26  9.0  -29.18407 sup. at s.  
+35|-29[[symbol - degree symbol]]  18410  22  30.7|-29  42  8.2  
+36|-29[[symbol - degree symbol]]  18408  22  30.6|-29  26  9.0  -29.18407 sup. at s.  
                                                 -29.18409 "    "  
-37 - 29[[symbol - degree symbol]]  18414  22  31.8 - 29  24  6.8  
-38 - 28[[symbol - degree symbol]]  17865  22  31.9 - 28  56  8.7  
-39 - 28[[symbol - degree symbol]]  17873  22  32.8 - 28  58  6.5  Partly sup. on -28 17874  
-40 - 28[[symbol - degree symbol]]  17874  22  32.8 - 28  69  7.5 "   "    "  -28 17873.  
-41 - 28[[symbol - degree symbol]]  17880  22  33.2 - 28  19  9.0  
-41a - 29[[symbol - degree symbol]] 18416  22  32.8 - 29  57  8.5  
-42 - 28[[symbol - degree symbol]]  17865  22  32.0 - 28  12  8.6  
-43 - 28[[symbol - degree symbol]]  17861  22  31.2 - 28  6   7.9  
-44 - 27[[symbol - degree symbol]]  15990  22  31.2 - 27  59  9.0  
-45 - 27[[symbol - degree symbol]]  15994  22  31.7 - 27  56  8.5  
-46 - 27[[symbol - degree symbol]]  15992  22  31.5 - 27  31  8.0  
-47 - 27[[symbol - degree symbol]]  15981  22  29.4 - 27  48  8.5  
-48 - 27[[symbol - degree symbol]]  15975  22  29.1 - 27  35  8.4  
-49 - 26[[symbol - degree symbol]]  16219  22  29.2 - 26  69  9.0  
-50 - 26[[symbol - degree symbol]]  16228  22  30.1 - 26  42  8.1  
-51 - 26[[symbol - degree symbol]]  16235  22  30.7 - 26  30  9.4  
-52 - 26[[symbol - degree symbol]]  16242  22  31.3 - 26  18  7.7
+37|-29[[symbol - degree symbol]]  18414  22  31.8|-29  24  6.8  
+38|-28[[symbol - degree symbol]]  17865  22  31.9|-28  56  8.7  
+39|-28[[symbol - degree symbol]]  17873  22  32.8|-28  58  6.5  Partly sup. on -28 17874  
+40|-28[[symbol - degree symbol]]  17874  22  32.8|-28  69  7.5 "   "    "  -28 17873.  
+41|-28[[symbol - degree symbol]]  17880  22  33.2|-28  19  9.0  
+41a|-29[[symbol - degree symbol]] 18416  22  32.8|-29  57  8.5  
+42|-28[[symbol - degree symbol]]  17865  22  32.0|-28  12  8.6  
+43|-28[[symbol - degree symbol]]  17861  22  31.2|-28  6   7.9  
+44|-27[[symbol - degree symbol]]  15990  22  31.2|-27  59  9.0  
+45|-27[[symbol - degree symbol]]  15994  22  31.7|-27  56  8.5  
+46|-27[[symbol - degree symbol]]  15992  22  31.5|-27  31  8.0  
+47|-27[[symbol - degree symbol]]  15981  22  29.4|-27  48  8.5  
+48|-27[[symbol - degree symbol]]  15975  22  29.1|-27  35  8.4  
+49|-26[[symbol - degree symbol]]  16219  22  29.2|-26  69  9.0  
+50|-26[[symbol - degree symbol]]  16228  22  30.1|-26  42  8.1  
+51|-26[[symbol - degree symbol]]  16235  22  30.7|-26  30  9.4  
+52|-26[[symbol - degree symbol]]  16242  22  31.3|-26  18  7.7
 
 =======================
 Page: 17 of 87
@@ -620,32 +625,32 @@ Page: 18 of 87
 
 |  |     |     |     | | | 
 |---|---|---|---|---|---|   
-| 53 - 26[[symbol - degree symbol]]|16252|22|32.4 - 26|7|8.4| 
-| 54 - 25[[symbol - degree symbol]]|16021|22|30.8 - 25|48|8.8| 
-| 55 - 26[[symbol - degree symbol]]|16222|22|29.5 - 26|14|8.8| 
-| 56 - 25[[symbol - degree symbol]]|16009|22|29.3 - 25|46|8.9| 
-| 57 - 25[[symbol - degree symbol]]|16008|22|29.2 - 25|52|9.1| 
-| 58 - 26[[symbol - degree symbol]]|16203|22|26.8 - 26|19|8.4| 
-| 59 - 26[[symbol - degree symbol]]|16195|22|26.0 - 26|27|8.9| 
-| 60 - 26[[symbol - degree symbol]]|16192|22|25.8 - 26|29|8.2| 
-| 61 - 27[[symbol - degree symbol]]|15958|22|25.8 - 27|6|9.2| 
-| 62 - 25[[symbol - degree symbol]]|15916|22|18.7 - 25|22|8.5| 
-| 63 - 26[[symbol - degree symbol]]|16276|22|34.5 - 26|0|7.3| 
-| 64 - 26[[symbol - degree symbol]]|16271|22|33.9 - 26|36|9.0| 
-| 65 - 26[[symbol - degree symbol]]|16263|22|33.2 - 26|49|8.9| 
-| 66 - 27[[symbol - degree symbol]]|16005|22|33.2 - 27|56|8.8| 
-| 67 - 27[[symbol - degree symbol]]|16010|22|33.7 - 27|41|4.3| 
-| 68 - 27[[symbol - degree symbol]]|16015|22|34.5 - 27|54|8.0| 
-| 69 - 28[[symbol - degree symbol]]|17892|22|35.4 - 28|2|7.7| 
-| 70 - 28[[symbol - degree symbol]]|17886|22|34.3 - 28|41|9.0| 
-| 71 - 28[[symbol - degree symbol]]|17892|22|35.4 - 28|32|8.0| 
-| 72 - 28[[symbol - degree symbol]]|17897|22|36.2 - 28|49|8.1| 
-| 73 - 29[[symbol - degree symbol]]|18438|22|36.1 - 29|7|8.7| 
-| 74 - 30[[symbol - degree symbol]]|19267|22|35.4 - 30|1|6.5| 
-| 75 - 30[[symbol - degree symbol]]|19265|22|35.1 - 30|11|9.0| 
-| 76 - 30[[symbol - degree symbol]]|19263|22|34.9 - 30|41|8.0| 
-| 77 - 30[[symbol - degree symbol]]|19255|22|33.7 - 30|19|7.6| 
-| 78 - 30[[symbol - degree symbol]]|19248|22|33.1 - 30|36|7.5 |
+| 53|-26[[symbol - degree symbol]] 16252|22|32.4|-26|7|8.4| 
+| 54|-25[[symbol - degree symbol]] 16021|22|30.8|-25|48|8.8| 
+| 55|-26[[symbol - degree symbol]] 16222|22|29.5|-26|14|8.8| 
+| 56|-25[[symbol - degree symbol]] 16009|22|29.3|-25|46|8.9| 
+| 57|-25[[symbol - degree symbol]] 16008|22|29.2|-25|52|9.1| 
+| 58|-26[[symbol - degree symbol]] 16203|22|26.8|-26|19|8.4| 
+| 59|-26[[symbol - degree symbol]] 16195|22|26.0|-26|27|8.9| 
+| 60|-26[[symbol - degree symbol]] 16192|22|25.8|-26|29|8.2| 
+| 61|-27[[symbol - degree symbol]] 15958|22|25.8|-27|6|9.2| 
+| 62|-25[[symbol - degree symbol]] 15916|22|18.7|-25|22|8.5| 
+| 63|-26[[symbol - degree symbol]] 16276|22|34.5|-26|0|7.3| 
+| 64|-26[[symbol - degree symbol]] 16271|22|33.9|-26|36|9.0| 
+| 65|-26[[symbol - degree symbol]] 16263|22|33.2|-26|49|8.9| 
+| 66|-27[[symbol - degree symbol]] 16005|22|33.2|-27|56|8.8| 
+| 67|-27[[symbol - degree symbol]] 16010|22|33.7|-27|41|4.3| 
+| 68|-27[[symbol - degree symbol]] 16015|22|34.5|-27|54|8.0| 
+| 69|-28[[symbol - degree symbol]] 17892|22|35.4|-28|2|7.7| 
+| 70|-28[[symbol - degree symbol]] 17886|22|34.3|-28|41|9.0| 
+| 71|-28[[symbol - degree symbol]] 17892|22|35.4|-28|32|8.0| 
+| 72|-28[[symbol - degree symbol]] 17897|22|36.2|-28|49|8.1| 
+| 73|-29[[symbol - degree symbol]] 18438|22|36.1|-29|7|8.7| 
+| 74 - 30[[symbol - degree symbol]] 19267|22|35.4 - 30|1|6.5| 
+| 75 - 30[[symbol - degree symbol]] 19265|22|35.1 - 30|11|9.0| 
+| 76 - 30[[symbol - degree symbol]] 19263|22|34.9 - 30|41|8.0| 
+| 77 - 30[[symbol - degree symbol]] 19255|22|33.7 - 30|19|7.6| 
+| 78 - 30[[symbol - degree symbol]] 19248|22|33.1 - 30|36|7.5 |
 
 
 =======================
@@ -694,32 +699,32 @@ Page: 20 of 87
 
 | ||||| 
 |---|---|---|---|---|   
-| 79 -30[[symbol - degree symbol]]|19247 22|32.9 -30|34|8.9| 
-| 80 -30[[symbol - degree symbol]]|19246 22|32.9 -30|24|8.6| 
-| 81 -29[[symbol - degree symbol]]|18421 22|33.2 -29|57|8.4| 
-| 82 -31[[symbol - degree symbol]]|18920 22|33.4 -31|18|6.3| 
-| 83 -30[[symbol - degree symbol]]|19273 22|36.3 -30|19|8.3| 
-| 84 -30[[symbol - degree symbol]]|19274 22|36.7 -30|21|8.9| 
-| 85 -29[[symbol - degree symbol]]|18446 22|37.1 -29|35|8.8| 
-| 86 -27[[symbol - degree symbol]]|16034 22|37.0 -27|51|8.4| 
-| 87 -27[[symbol - degree symbol]]|16039 22|38.2 -27|57|8.6| 
-| 88 -27[[symbol - degree symbol]]|16044 22|38.8 -27|38|7.7| 
-| 89 -27[[symbol - degree symbol]]|16032 22|36.8 -27|31|8.5| 
-| 90 -27[[symbol - degree symbol]]|16019 22|35.2 -27|30|8.8| 
-| 91 -26[[symbol - degree symbol]]|16287 22|35.7 -26|54|8.8| 
-| 92 -26[[symbol - degree symbol]]|16290 22|36.0 -26|19|9.3| 
-| 93 -26[[symbol - degree symbol]]|16294 22|36.4 -26|19|8.0| 
-| 94 -26[[symbol - degree symbol]]|16302 22|37.6 -26|57|8.7| 
-| 95 -26[[symbol - degree symbol]]|16319 22|40.1 -26|58|8.0| 
-| 96 -28[[symbol - degree symbol]]|17933 22|40.5 -28|2|8.1| 
-| 97 -28[[symbol - degree symbol]]|17943 22<br>18461|41.6 -29|13|6.8| 
-| 98 -29[[symbol - degree symbol]]|18461 22|41.1 -29|11|8.3| 
-| 99 -30[[symbol - degree symbol]]|19270 22|36.0 -30|56|8.5 -30[[symbol - degree symbol]] 19.269 sup. 9.6 | 
-| 100 -31[[symbol - degree symbol]]|18939 22|36.4 -31|8|8.1| 
-| 101 -31[[symbol - degree symbol]]|18933 22|35.4 -31|18|8.3| 
-| 102 -31[[symbol - degree symbol]]|18932 22|35.4 -31|20|8.5| 
-| 103 -31[[symbol - degree symbol]]|18955 22|38.6 -31|7|8.5| 
-| 104 -30[[symbol - degree symbol]]|19254 22|33.6 -30|61|8.7 |
+| 79 -30[[symbol - degree symbol]] 19247|22 32.9 -30|34|8.9| 
+| 80 -30[[symbol - degree symbol]] 19246|22 32.9 -30|24|8.6| 
+| 81 -29[[symbol - degree symbol]] 18421|22 33.2 -29|57|8.4| 
+| 82 -31[[symbol - degree symbol]] 18920|22 33.4 -31|18|6.3| 
+| 83 -30[[symbol - degree symbol]] 19273|22 36.3 -30|19|8.3| 
+| 84 -30[[symbol - degree symbol]] 19274|22 36.7 -30|21|8.9| 
+| 85 -29[[symbol - degree symbol]] 18446|22 37.1 -29|35|8.8| 
+| 86 -27[[symbol - degree symbol]] 16034|22 37.0 -27|51|8.4| 
+| 87 -27[[symbol - degree symbol]] 16039|22 38.2 -27|57|8.6| 
+| 88 -27[[symbol - degree symbol]] 16044|22 38.8 -27|38|7.7| 
+| 89 -27[[symbol - degree symbol]] 16032|22 36.8 -27|31|8.5| 
+| 90 -27[[symbol - degree symbol]] 16019|22 35.2 -27|30|8.8| 
+| 91 -26[[symbol - degree symbol]] 16287|22 35.7 -26|54|8.8| 
+| 92 -26[[symbol - degree symbol]] 16290|22 36.0 -26|19|9.3| 
+| 93 -26[[symbol - degree symbol]] 16294|22 36.4 -26|19|8.0| 
+| 94 -26[[symbol - degree symbol]] 16302|22 37.6 -26|57|8.7| 
+| 95 -26[[symbol - degree symbol]] 16319|22 40.1 -26|58|8.0| 
+| 96 -28[[symbol - degree symbol]] 17933|22 40.5 -28|2|8.1| 
+| 97 -28[[symbol - degree symbol]] 17943 22<br>18461|41.6 -29|13|6.8| 
+| 98 -29[[symbol - degree symbol]] 18461|22 41.1 -29|11|8.3| 
+| 99 -30[[symbol - degree symbol]] 19270|22 36.0 -30|56|8.5 -30[[symbol - degree symbol]] 19.269 sup. 9.6 | 
+| 100 -31[[symbol - degree symbol]] 18939|22 36.4 -31|8|8.1| 
+| 101 -31[[symbol - degree symbol]] 18933|22 35.4 -31|18|8.3| 
+| 102 -31[[symbol - degree symbol]] 18932|22 35.4 -31|20|8.5| 
+| 103 -31[[symbol - degree symbol]] 18955|22 38.6 -31|7|8.5| 
+| 104 -30[[symbol - degree symbol]] 19254|22 33.6 -30|61|8.7 |
 
 =======================
 Page: 21 of 87
@@ -6576,7 +6581,7 @@ Page: 69 of 87
 -24  
 41  
 9.0  
-21 - 25[[symbol - degree symbol]]  
+21|-25[[symbol - degree symbol]]  
 16149  
 22  
 45.7  
@@ -7000,7 +7005,7 @@ Page: 73 of 87
 54.8-23  
 5  
 7.4  
-54 - 230  
+54|-230  
 17702  
 22  
 54.3  
@@ -7166,7 +7171,7 @@ C.P.M.
 -21  
 44  
 9.1  
-78 - 21[[symbol - degree symbol]]  
+78|-21[[symbol - degree symbol]]  
 6310  
 22  
 42.1  
@@ -7701,7 +7706,7 @@ Page: 77 of 87
 19  
 9.0  
 129  
-c. D.M. - 2 2º  
+c. D.M.|-2 2º  
 16668  
 22  
 59.5  
