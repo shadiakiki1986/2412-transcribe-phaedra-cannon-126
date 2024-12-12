@@ -612,40 +612,45 @@ https://transcription.si.edu/transcribe/50684/ERUXG
 Page: 17 of 27
 Submitted 2024-12-11
 https://transcription.si.edu/transcribe/50684/ERUXM
+Log:
+- 2024-12-12 revised and re-submitted
+- 2024-12-11 submitted. Feedback: Delete extra spaces in columns 2, 3, and 4. Add spaces in column 1, 3 & 4. 
+
 =======================
 
 [[preprinted]] 81 [[/preprinted]]
-
+[[table]]
 |   |   |   |   |   |
 |---|---|---|---|---|
-|235| -25[[symbol - degree symbol]]  15877 |22  14.2 |-25  6  | 9.7  |
-|236| -25[[symbol - degree symbol]]  15896 |22  15.7 |-25  19 | 9.1  |
-|237| -25[[symbol - degree symbol]]  15902 |22  16.4 |-25  14 | 9.5  |
-|238| -25[[symbol - degree symbol]]  15905 |22  16.6 |-25  23 | 5.9  |
-|239| -25[[symbol - degree symbol]]  15898 |22  15.9 |-25  15 | 9.3  |
-|240| -25[[symbol - degree symbol]]  15908 |22  17.3 |-25  56 | 9.3  |
-|241| -26[[symbol - degree symbol]]  16116 |22  17.2 |-26  5  | 9.3  |
-|242| -26[[symbol - degree symbol]]  16125 |22  18.1 |-26  3  | 9.0  |
-|243| -25[[symbol - degree symbol]]  15914 |22  18.5 |-25  59 | 8.3  |
-|244| -26[[symbol - degree symbol]]  16135 |22  19.2 |-26  13 | 8.8  |
-|245| -26[[symbol - degree symbol]]  16136 |22  19.3 |-26  27 | 9.6  |
-|246| -27[[symbol - degree symbol]]  15910 |22  19.1 |-27  12 | 9.5  |
-|247| -27[[symbol - degree symbol]]  15896 |22  17.8 |-27  29 | 7.1  |
-|248| -27[[symbol - degree symbol]]  15893 |22  17.6 |-27  29 | 9.3  |
-|249| -27[[symbol - degree symbol]]  15887 |22  17.1 |-27  1  | 7.8  |
-|250| -26[[symbol - degree symbol]]  16114 |22  17.1 |-26  50 | 9.5  |
-|251| -28[[symbol - degree symbol]]  17727 |22  15.5 |-28  2  | 9.0  |
-|252| -28[[symbol - degree symbol]]  17730 |22  15.9 |-28  10 | 8.5  |
-|253| -28[[symbol - degree symbol]]  17729 |22  15.8 |-28  12 | 9.0  |
-|254| -28[[symbol - degree symbol]]  17712 |22  14.4 |-28  11 | 9.5  |
-|255| -27[[symbol - degree symbol]]  15871 |22  14.3 |-27  52 | 9.5  |
-|256| -27[[symbol - degree symbol]]  15869 |22  13.9 |-27  57 | 9.6  |
-|257| -27[[symbol - degree symbol]]  15867 |22  13.5 |-27  51 | 9.5  |
-|258| -27[[symbol - degree symbol]]  15866 |22  13.4 |-27  34 | 9.4  |
-|259| -27[[symbol - degree symbol]]  15858 |22  12.9 |-27  30 | 9.7  |
-|260| -27[[symbol - degree symbol]]  15861 |22  13.2 |-27  8  | 9.4  |
+| 235 | -25[[symbol - degree symbol]] 15877 | 22 14.2 | -25 6 | 9.7 |
+| 236 | -25[[symbol - degree symbol]] 15896 | 22 15.7 | -25 19 | 9.1 |
+| 237 | -25[[symbol - degree symbol]] 15902 | 22 16.4 | -25 14 | 9.5 |
+| 238 | -25[[symbol - degree symbol]] 15905 | 22 16.6 | -25 23 | 5.9 |
+| 239 | -25[[symbol - degree symbol]] 15898 | 22 15.9 | -25 15 | 9.3 |
+| 240 | -25[[symbol - degree symbol]] 15908 | 22 17.3 | -25 56 | 9.3 |
+| 241 | -26[[symbol - degree symbol]] 16116 | 22 17.2 | -26 5 | 9.3 |
+| 242 | -26[[symbol - degree symbol]] 16125 | 22 18.1 | -26 3 | 9.0 |
+| 243 | -25[[symbol - degree symbol]] 15914 | 22 18.5 | -25 59 | 8.3 |
+| 244 | -26[[symbol - degree symbol]] 16135 | 22 19.2 | -26 13 | 8.8 |
+| 245 | -26[[symbol - degree symbol]] 16136 | 22 19.3 | -26 27 | 9.6 |
+| 246 | -27[[symbol - degree symbol]] 15910 | 22 19.1 | -27 12 | 9.5 |
+| 247 | -27[[symbol - degree symbol]] 15896 | 22 17.8 | -27 29 | 7.1 |
+| 248 | -27[[symbol - degree symbol]] 15893 | 22 17.6 | -27 29 | 9.3 |
+| 249 | -27[[symbol - degree symbol]] 15887 | 22 17.1 | -27 1 | 7.8 |
+| 250 | -26[[symbol - degree symbol]] 16114 | 22 17.1 | -26 50 | 9.5 |
+| 251 | -28[[symbol - degree symbol]] 17727 | 22 15.5 | -28 2 | 9.0 |
+| 252 | -28[[symbol - degree symbol]] 17730 | 22 15.9 | -28 10 | 8.5 |
+| 253 | -28[[symbol - degree symbol]] 17729 | 22 15.8 | -28 12 | 9.0 |
+| 254 | -28[[symbol - degree symbol]] 17712 | 22 14.4 | -28 11 | 9.5 |
+| 255 | -27[[symbol - degree symbol]] 15871 | 22 14.3 | -27 52 | 9.5 |
+| 256 | -27[[symbol - degree symbol]] 15869 | 22 13.9 | -27 57 | 9.6 |
+| 257 | -27[[symbol - degree symbol]] 15867 | 22 13.5 | -27 51 | 9.5 |
+| 258 | -27[[symbol - degree symbol]] 15866 | 22 13.4 | -27 34 | 9.4 |
+| 259 | -27[[symbol - degree symbol]] 15858 | 22 12.9 | -27 30 | 9.7 |
+| 260 | -27[[symbol - degree symbol]] 15861 | 22 13.2 | -27 8 | 9.4 |
+[[/table]]
+[[annotation]] Partly sup. on -28[[symbol - degree symbol]] 17730 [[/annotation]]
 
-[[annotation]]Partly sup. on -28[[symbol - degree symbol]] 17730  [[/annotation]]
 
 =======================
 Page: 18 of 27
@@ -693,6 +698,8 @@ B.23813 short
 Page: 19 of 27
 Submitted 2024-12-11
 https://transcription.si.edu/transcribe/50684/ERUXS
+Log:
+- 2024-12-11 submitted. Feedback: Delete extra spaces in columns 2, 3 and 4.
 =======================
 
 [[preprinted]] 83 [[/preprinted]]
