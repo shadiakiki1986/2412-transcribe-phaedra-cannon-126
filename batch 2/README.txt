@@ -34,3 +34,10 @@ img2pdf images/phraeda-0002208.0*.jpg -o "phaedra-2208 to_transcribe (before 100
 
 img2pdf images/phraeda-0002208.1*.jpg -o "phaedra-2208 to_transcribe (100's).pdf"
 ```
+
+Upon feedback:
+
+- copy-paste transcript edited remotely
+- check diff: `git diff --word-diff-regex=.`
+- edit to match
+- add fields to each page header in the txt file: Link, Logs
