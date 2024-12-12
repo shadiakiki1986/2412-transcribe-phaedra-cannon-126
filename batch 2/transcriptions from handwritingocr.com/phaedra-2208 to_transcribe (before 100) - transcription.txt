@@ -996,38 +996,42 @@ John G. Wolbach Library, Harvard-Smithsonian Center for Astrophysics - Provided 
 
 =======================
 Page: 27 of 27
+Link: https://transcription.si.edu/transcribe/50684/ERUYm
+Logs:
+- 2024-12-12 submitted
 =======================
 
 [[preprinted]] 93 [[/preprinted]]
 
-|  |      |      |      |      |      |  
-| :---- | :---- | :---- | :---- | :---- | :---- |  
-| 1 - 21[[symbol - degree symbol]] | 6166 | 21 | 59.6 - 21 | 28 | 7.3 |  
-| 2 - 21[[symbol - degree symbol]] | 6168 | 21 | 59.7 - 21 | 48 | 9.1 |  
-| 3 - 22[[symbol - degree symbol]] | 5836 | 21 | 59.8 - 22 | 18 | 8.0 |  
-| 4 - 22[[symbol - degree symbol]] | 5834 | 21 | 59.2 - 22 | 48 | 9.0 |  
-| 5 - 23[[symbol - degree symbol]] | 17272 | 22 | 2.0 - 23 | 20 | 9.2 |  
-| 6 - 23[[symbol - degree symbol]] | 17275 | 22 | 2.6 - 23 | 30 | 9.1 |  
-| 7 - 23[[symbol - degree symbol]] | 17279 | 22 | 2.9 - 23 | 39 | 8.6 |  
-| 8 - 23[[symbol - degree symbol]] | 17292 | 22 | 4.2 - 23 | 5 | 8.4 |  
-| 9 - 22[[symbol - degree symbol]] | 5850 | 22 | 3.3 - 22 | 55 | 8.3 - 22[[symbol - degree symbol]] 5851 up. 9.2 |  
-| 10 - 22[[symbol - degree symbol]] | 5846 | 22 | 2.2 - 22 | 51 | 9.0 |  
-| 11 - 22[[symbol - degree symbol]] | 5848 | 22 | 2.4 - 22 | 38 | 9.2 |  
-| 12 - 21[[symbol - degree symbol]] | 6170 | 22 | 2.3 - 21 | 42 | 8.3 |  
-| 13 - 21[[symbol - degree symbol]] | 6173 | 22 | 3.0 - 21 | 56 | 6.0 |  
-| 14 - 22[[symbol - degree symbol]] | 5852 | 22 | 3.7 - 22 | 6 | 9.0 |  
-| 15 - 21[[symbol - degree symbol]] | 6171 | 22 | 2.7 - 21 | 23 | 9.2 |  
-| 16 - 22[[symbol - degree symbol]] | 5854 | 22 | 4.7 - 22 | 13 | 9.0 |  
-| 17 - 22[[symbol - degree symbol]] | 5858 | 22 | 4.9 - 22 | 12 | 8.9 |  
-| 18 - 22[[symbol - degree symbol]] | 5860 | 22 | 5.1 - 22 | 7 | 8.2 |  
-| 19 - 22[[symbol - degree symbol]] | 5864 | 22 | 6.1 - 22 | 7 | 8.0 |  
-| 20 - 21[[symbol - degree symbol]] | 6180 | 22 | 6.3 - 21 | 48 | 5.5 |  
-| 21 - 21[[symbol - degree symbol]] | 6182 | 22 | 6.6 - 21 | 45 | 9.0 |  
-| 22 - 21[[symbol - degree symbol]] | 6183 | 22 | 6.5 - 21 | 39 | 8.8 |  
-| 23 - 21[[symbol - degree symbol]] | 6181 | 22 | 6.5 - 21 | 55 | 9.0 |  
-| 24 - 21[[symbol - degree symbol]] | 6184 | 22 | 6.8 - 21 | 54 | 9.3 |  
-| 25 - 21[[symbol - degree symbol]] | 6186 | 22 | 7.7 - 21 | 69 | 8.6 |  
-| 26 - 22[[symbol - degree symbol]] | 5871 | 22 | 8.0 - 22 | 1 | 9.1 |
-
-John G. Wolbach Library, Harvard-Smithsonian Center for Astrophysics • Provided by the NASA Astrophysics Data System
+[[table]]
+|   |   |   |   |   | 
+|---|---|---|---|---|
+|1|-21[[symbol - degree symbol]] 6166|21 59.6|-21 28|7.3|
+|2|-21[[symbol - degree symbol]] 6168|21 59.7|-21 48|9.1|
+|3|-22[[symbol - degree symbol]] 5836|21 59.8|-22 18|8.0|
+|4|-22[[symbol - degree symbol]] 5834|21 59.2|-22 48|9.0| 
+|5|-23[[symbol - degree symbol]] 17272|22 2.0|-23 20|9.2| 
+|6|-23[[symbol - degree symbol]] 17275|22 2.6|-23 30|9.1| 
+|7|-23[[symbol - degree symbol]] 17279|22 2.9|-23 39|8.6| 
+|8|-23[[symbol - degree symbol]] 17292|22 4.2|-23 5|8.4| 
+|9|-22[[symbol - degree symbol]] 5850|22 3.3|-22 55|8.3|
+|10|-22[[symbol - degree symbol]] 5846|22 2.2|-22 51|9.0| 
+|11|-22[[symbol - degree symbol]] 5848|22 2.4|-22 38|9.2| 
+|12|-21[[symbol - degree symbol]] 6170|22 2.3|-21 42|8.3| 
+|13|-21[[symbol - degree symbol]] 6173|22 3.0|-21 56|6.0| 
+|14|-22[[symbol - degree symbol]] 5852|22 3.7|-22 6|9.0| 
+|15|-21[[symbol - degree symbol]] 6171|22 2.7|-21 23|9.2| 
+|16|-22[[symbol - degree symbol]] 5854|22 4.7|-22 13|9.0| 
+|17|-22[[symbol - degree symbol]] 5858|22 4.9|-22 12|8.9| 
+|18|-22[[symbol - degree symbol]] 5860|22 5.1|-22 7|8.2| 
+|19|-22[[symbol - degree symbol]] 5864|22 6.1|-22 7|8.0| 
+|20|-21[[symbol - degree symbol]] 6180|22 6.3|-21 48|5.5| 
+|21|-21[[symbol - degree symbol]] 6182|22 6.6|-21 45|9.0| 
+|22|-21[[symbol - degree symbol]] 6183|22 6.5|-21 39|8.8| 
+|23|-21[[symbol - degree symbol]] 6181|22 6.5|-21 55|9.0| 
+|24|-21[[symbol - degree symbol]] 6184|22 6.8|-21 54|9.3| 
+|25|-21[[symbol - degree symbol]] 6186|22 7.7|-21 69|8.6| 
+|26|-22[[symbol - degree symbol]] 5871|22 8.0|-22 1|9.1 |
+[[/table]]
+[[annotation]] -22[[symbol - degree symbol]] 5851 up. 9.2| [[/annotation]]
 
