@@ -898,27 +898,33 @@ John G. Wolbach Library, Harvard-Smithsonian Center for Astrophysics - Provided 
 
 =======================
 Page: 24 of 27
+Log:
+- 2024-12-12: Submitted
 =======================
 
 [[preprinted]] 90 [[/preprinted]]
 
 Wednesday, Sept. 22, 1915  
-B 39689 short
+B39689 short
 
-| No. | tut | Class | Remark |  
-|---|---|---|---|   
-|235 | 3 | A5 | 
-|236 | 1 | K5 | Partly sup. on 237 |  
-|237 | 4 | K0 | 
-|238 | 2 | A5 | 
-|239 | 1 | 90 | 
-|240 | 1 | 90 | 
-|241 | 3 | 70 | 
-|242 | 1 | 112 | 
-|243 | 2 | 80 | 
-|244 | 1 | 85 | 
-| 9:50245 | 1 | 72 | 
-| 246 |  |  | |
+[[table]]
+|No|Int|Class|Remark|  
+|---|---|---|---|
+|235|3|A5|   |
+|236|1|K5|Partly sup. on 237|
+|237|4|K0|   |
+|238|2|A5|   |
+|239|1|G0|   |
+|240|1|G0|   |
+|241|3|K0|   |
+|242|1|K2|   |
+|243|2|G5|   |
+|244|1|F2|   |
+|245|1|K2|   |
+|246|   |   |   |
+[[/table]]
+[[annotation]] 9:50 [[/annotation]]
+
 
 =======================
 Page: 25 of 27
