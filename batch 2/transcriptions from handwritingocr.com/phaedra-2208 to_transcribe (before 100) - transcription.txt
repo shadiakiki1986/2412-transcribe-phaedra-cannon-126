@@ -1034,3 +1034,43 @@ Logs:
 [[/table]]
 [[annotation]] -22[[symbol - degree symbol]] 5851 up. 9.2| [[/annotation]]
 
+
+=======================
+Page: n/a, added manually
+Link: https://transcription.si.edu/transcribe/50684/ERUYs
+Logs:
+- 2024-12-12 submitted
+=======================
+
+[[preprinted]] 95 [[/preprinted]]
+[[table]]
+|27|-21[[symbol - degree symbol]] 6188|22 8.2|-21 50|9.2|
+|28|-22[[symbol - degree symbol]] 5862|22 5.8|-22 58|8.3|
+|29|-23[[symbol - degree symbol]] 17320|22 7.2|-23 17|9.2|
+|29|CDM-22[[symbol - degree symbol]] 15834|22 11.3|-22 55|7.6|
+|31|-22[[symbol - degree symbol]] 5882|22 10.9|-22 58|9.1|
+|32|-22[[symbol - degree symbol]] 5879|22 10.2|-22 9|8.8|
+|33|-21[[symbol - degree symbol]] 6193|22 10.5|-21 43|8.6|
+|34|-21[[symbol - degree symbol]] 6197|22 10.6|-21 27|7.7|
+|35|-21[[symbol - degree symbol]] 6194|22 10.5|-21 18|9.3|
+|36|-21[[symbol - degree symbol]] 6196|22 10.6|-21 13|9.0|
+|37|-21[[symbol - degree symbol]] 6198|22 10.6|-21 17|9.0|
+|38|-22[[symbol - degree symbol]] 5887|22 12.0|-22 3|8.9|
+|39|-22[[symbol - degree symbol]] 5888|22 12.0|-22 44|8.0|
+|40|-23[[symbol - degree symbol]] 17385|22 14.2|-23 7|8.7|
+|41|-23[[symbol - degree symbol]] 17380|22 13.9|-23 21|8.5|
+|42|-23[[symbol - degree symbol]] 17376[[strikethrough]] 5 [[/strikethrough]]|22 13.7|-23 14|9.0|
+|43|-23[[symbol - degree symbol]] 173[[strikethrough]]7[[/strikethrough]]87|22 14.7|-23 27|9.0|
+|44|-22[[symbol - degree symbol]] 5899|22 14.7|-22 54|9.0|
+|45|-22[[symbol - degree symbol]] 5901|22 17.7|-22 34|9.4|
+|46|-22[[symbol - degree symbol]] 5897|22 13.6|-22 19|5.7|
+|47|-22[[symbol - degree symbol]] 5895|22 13.2|-22 21|8.8|
+|48|-22[[symbol - degree symbol]] 5893|22 13.0|-22 22|9.0|
+|49|-22[[symbol - degree symbol]] 5896|22 13.4|-22 4|9.2|
+|50|-21[[symbol - degree symbol]] 6206|22 13.7|-21 31|8.9|
+|51|-21[[symbol - degree symbol]] 6207|22 14.0|-21 33|8.5|
+|52|-21[[symbol - degree symbol]] 6211|22 14.6|-21 48|9.2|
+[[/table]]
+
+[[annotation]] This 1900 fub. pos. [[/annotation]]
+[[annotation]] R.T. [[aquarii?]] [[/annotation]]
