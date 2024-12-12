@@ -903,12 +903,10 @@ Log:
 =======================
 
 [[preprinted]] 90 [[/preprinted]]
-
-Wednesday, Sept. 22, 1915  
+Wednesday, Sept. 22, 1915
 B39689 short
-
 [[table]]
-|No|Int|Class|Remark|  
+|No|Int|Class|Remark|
 |---|---|---|---|
 |235|3|A5|   |
 |236|1|K5|Partly sup. on 237|
