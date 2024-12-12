@@ -477,39 +477,45 @@ Wednesday, Sept 22, 1915
 
 =======================
 Page: 14 of 87
+Link: https://transcription.si.edu/transcribe/50684/ERUZk
+Logs:
+- 2024-12-12 submitted
 =======================
 
-113
+[[preprinted]] 113 [[/preprinted]]
 
-|   |    |   |    |   |    | 
-| ---|----|---|----|---|----| 
-| 1  |-30[[symbol - degree symbol]] 19165|22 |20.4 -30|52  8.7| 
-|2  |-31[[symbol - degree symbol]] 18818|22 |20.8 -31|14  9.2 -31[[symbol - degree symbol]]18817aup. 9.4|
-|3  |-31[[symbol - degree symbol]] 18830|22 |21.9 -31|17  8.0 -31[[symbol - degree symbol]]18832 sup on foll|
-|4  |-30[[symbol - degree symbol]] 19175|22 |22.2 -30|38  7.3|
-|5  |-31[[symbol - degree symbol]] 18846|22 |23.2 -31|5   7.9|
-|6  |-30[[symbol - degree symbol]] 19188|22 |23.6 -30|46  8.5|
-|7  |-31[[symbol - degree symbol]] 18854|22 |23.9 -31|40  7.3|
-|8  |-31[[symbol - degree symbol]] 18861|22 |25.0 -31|49  8.1|
-|9  |-32[[symbol - degree symbol]] 17119|22 |23.7 -32|10  8.0|
-|10 |-30[[symbol - degree symbol]] 19205|22 |26.4 -30|22  8.9|
-|11 |-30[[symbol - degree symbol]] 19208|22 |26.5 -30|19  7.3|
-|12 |-29[[symbol - degree symbol]] 18384|22 |26.0 -29|38  8.1|
-|13 |-29[[symbol - degree symbol]] 18367|22 |22.5 -29|43  8.7|
-|14 |-29[[symbol - degree symbol]] 18350|22 |21.7 -29|22  9.2|
-|15 |-30[[symbol - degree symbol]] 19174|22 |22.0 -30|12  9.1|
-|16 |-29[[symbol - degree symbol]] 18367|22 |23.2 -29|31  9.3|
-|17 |-29[[symbol - degree symbol]] 18373|22 |24.1 -29|56  9.1|
-|18 |-28[[symbol - degree symbol]] 17815|22 |26.4 -28|48  8.3|
-|19 |-28[[symbol - degree symbol]] 17818|22 |26.6 -28|37  8.9|
-|20 |-28[[symbol - degree symbol]] 17809|22 |25.6 -28|21  8.5|
-|21 |-28[[symbol - degree symbol]] 17803|22 |25.0 -28|47  9.1|
-|22 |-28[[symbol - degree symbol]] 17827|22 |27.2 -28|18  8.7|
-|23 |-28[[symbol - degree symbol]] 17828|22 |27.4 -28|11  8.9|
-|24 |-28[[symbol - degree symbol]] 17829|22 |27.5 -28|1   8.7|
-|25 |-28[[symbol - degree symbol]] 17833|22 |28.1 -28|12  9.1|
-|26 |-28[[symbol - degree symbol]] 17834|22 |28.1 -28|6   8.5 |
-
+[[table]]
+|   |   |   |   |   |   | 
+|---|---|---|---|---|---| 
+|1|-30[[symbol - degree symbol]] 19165|22 20.4|-30 52|8.7| 
+|2|-31[[symbol - degree symbol]] 18818|22 20.8|-31 14|9.2|
+|3|-31[[symbol - degree symbol]] 18830|22 21.9|-31 17|8.0|
+|4|-30[[symbol - degree symbol]] 19175|22 22.2|-30 38|7.3|
+|5|-31[[symbol - degree symbol]] 18846|22 23.2|-31 5|7.9|
+|6|-30[[symbol - degree symbol]] 19188|22 23.6|-30 46|8.5|
+|7|-31[[symbol - degree symbol]] 18854|22 23.9|-31 40|7.3|
+|8|-31[[symbol - degree symbol]] 18861|22 25.0|-31 49|8.1|
+|9|-32[[symbol - degree symbol]] 17119|22 23.7|-32 10|8.0|
+|10|-30[[symbol - degree symbol]] 19205|22 26.4|-30 22|8.9|
+|11|-30[[symbol - degree symbol]] 19208|22 26.5|-30 19|7.3|
+|12|-29[[symbol - degree symbol]] 18384|22 26.0|-29 38|8.1|
+|13|-29[[symbol - degree symbol]] 18367|22 22.5|-29 43|8.7|
+|14|-29[[symbol - degree symbol]] 18350|22 21.7|-29 22|9.2|
+|15|-30[[symbol - degree symbol]] 19174|22 22.0|-30 12|9.1|
+|16|-29[[symbol - degree symbol]] 18367|22 23.2|-29 31|9.3|
+|17|-29[[symbol - degree symbol]] 18373|22 24.1|-29 56|9.1|
+|18|-28[[symbol - degree symbol]] 17815|22 26.4|-28 48|8.3|
+|19|-28[[symbol - degree symbol]] 17818|22 26.6|-28 37|8.9|
+|20|-28[[symbol - degree symbol]] 17809|22 25.6|-28 21|8.5|
+|21|-28[[symbol - degree symbol]] 17803|22 25.0|-28 47|9.1|
+|22|-28[[symbol - degree symbol]] 17827|22 27.2|-28 18|8.7|
+|23|-28[[symbol - degree symbol]] 17828|22 27.4|-28 11|8.9|
+|24|-28[[symbol - degree symbol]] 17829|22 27.5|-28 1|8.[[strikethrough]]7[[/strikethrough]]4|
+|25|-28[[symbol - degree symbol]] 17833|22 28.1|-28 12|9.1|
+|26|-28[[symbol - degree symbol]] 17834|22 28.1|-28 6|8.5|
+[[/table]]
+[[annotation]] -31[[symbol - degree symbol]]18817aup. 9.4 [[/annotation]]
+[[annotation]] -31[[symbol - degree symbol]]18832 sup on foll [[/annotation]]
 
 =======================
 Page: 15 of 87
