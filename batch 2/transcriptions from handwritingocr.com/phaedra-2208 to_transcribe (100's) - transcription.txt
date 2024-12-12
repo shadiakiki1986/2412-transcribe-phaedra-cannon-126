@@ -152,16 +152,16 @@ Logs:
 Page: 5 of 87
 Link: https://transcription.si.edu/transcribe/50684/ERUYH
 Log:
-- 2024-12-12 submitted
+- 2024-12-12 fixed here but no need to submit
 =======================
 
-[[preprinted]] 100 [[/preprinted]]
+[[preprinted]]100[[/preprinted]]
 
-Wednesday, Sept 22, 1915  
+Wednesday, Sept. 22, 1915
 B24338 short
 
 [[table]]
-|No|Int|Class|Remark|  
+|No|Int|Class|Remark|
 |---|---|---|---|
 |27|2|F8|   |
 |28|2|G5|   |
@@ -180,7 +180,7 @@ B24338 short
 |41|10+|G|   |
 |42|6|K2|   |
 |43|10|A0|   |
-|44|3|G5|Another star susp?|
+|44|3|G5|Another star sup?|
 |45|4|F8|   |
 |46|3|G0|   |
 |47|1|K0|   |
@@ -188,7 +188,7 @@ B24338 short
 |49|4|K0|   |
 |50|4|F0|   |
 |51|2|Ma|   |
-|52|1|G0|Partly sup.on star at north |
+|52|1|G0|Partly sup. on star at north|
 [[/table]]
 
 =======================
