@@ -58,6 +58,8 @@ General Method of transcription (check each batch's readme for specific method u
     - 11 pages partially transcribed
     - 17 pages needing review
     - 125 pages completed
+  - submitted about 12 pages in 2 hours (ref git-log)
+  - fixed about 5 pages that were marked "partially transcribed" and mark for review
 - 09:45 clock-in
   - Will continue working on batch 2
   - Project progress (copied from project page):
